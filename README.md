@@ -15,8 +15,8 @@ Requirements and Dependencies
 2. WebSocket
 3. Lombok
 
-<img src="https://github.com/Kavindulakmal/WebSocket-Spring-Boot/assets/
-80127637/5aee2b9e-f289-4728-9e29-8b2824a2fdac" width="600">
+<img src="![Screenshot 2023-11-10 011615](https://github.com/Kavindulakmal/WebSocket-Spring-Boot/assets/
+80127637/5aee2b9e-f289-4728-9e29-8b2824a2fdac)" width="600">
 
 
 ### Running the project
