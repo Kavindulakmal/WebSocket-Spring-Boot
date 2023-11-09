@@ -23,7 +23,7 @@ Requirements and Dependencies
 1. Run main applicaton. By default, App will run on port 8080.
 2. type http://localhost:8000 on web Browser.You should be able to view the homepage.
 
-<img src="https://user-images.githubusercontent.com/80127637/211138775-61dcfae0-4763-4d44-bdfd-2faa8022ae8d.png" width="600">
+![Screenshot 2023-11-10 011139](https://github.com/Kavindulakmal/WebSocket-Spring-Boot/assets/80127637/4a46abc3-6e42-44fe-a907-db5e1cd52eef)
 
 ### resources
 
