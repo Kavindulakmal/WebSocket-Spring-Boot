@@ -1,4 +1,4 @@
-#Real time Chat Application with Spring Boot
+# Real time Chat Application with Spring Boot
 
 ## Description
 Welcome to the project! This is a Real time Chat Application made in Java and the Spring-boot framework. 
