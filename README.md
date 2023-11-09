@@ -6,7 +6,7 @@ It allows users to quickly and easily chat with each other.hope you enjoy and we
 
 ### Prerequisites
 1. install java 17 or above
-2. a IDE IntelliJ IDEA Ultimate(Depend on you) | Download : https://www.jetbrains.com/idea/download/?section=windows
+2. a IDE IntelliJ IDEA Ultimate(Depend on you) | Download IDE : https://www.jetbrains.com/idea/download/?section=windows
 
 
 Requirements and Dependencies
